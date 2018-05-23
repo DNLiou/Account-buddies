@@ -6,4 +6,4 @@ App名稱:記帳好朋友 Account-buddies
 
 Wireframe 圖: 
 
-![image](Account-buddies/552c635f88b74661b077d1e65b18db58.png)
+![image](https://github.com/shan0515/Account-buddies/blob/master/552c635f88b74661b077d1e65b18db58.png)
